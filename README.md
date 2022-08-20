@@ -1,6 +1,7 @@
 <H1>Spredictor-Stock-price-recommender</H1>
 
 1. Recommend creating a virtual environment with python 3.8.10 using the command:
+
     <code>virtualenv -p <interpreter-path> <my_env_name></code>
   
 2. Activate the virtualenv:
