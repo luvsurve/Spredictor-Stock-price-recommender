@@ -10,10 +10,10 @@
     <code>pip install -r requirements.txt</code>
   
 4. Manually install other missing packages using pip command:<br>
-    <code>pip install <package-name></code>
-<br>
+    <code> pip install <package-name> </code>
 <h3>Project Directory after successful installation:</h3>        
 <br><img src="https://github.com/luvsurve/Spredictor-Stock-price-recommender/blob/main/Post%20Installation.JPG">
+        
 5. Edit app.py and update news-api credentials(api-key)(generate at https://newsapi.org/)
   
 6. Run the streamlit webserver using the commmand:<br>
