@@ -12,7 +12,7 @@
 4. Manually install other missing packages using pip command:<br>
     <code> pip install <module> </code> 
 <h3>Project Directory after successful installation:</h3>        
-<br><img src="https://github.com/luvsurve/Spredictor-Stock-price-recommender/blob/main/Post%20Installation.JPG">
+<br><img src="Repository_extra/Post Installation.JPG">
         
 5. Edit app.py and update news-api credentials(api-key)(generate at https://newsapi.org/)
   
