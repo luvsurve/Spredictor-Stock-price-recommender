@@ -11,7 +11,7 @@
     <code>pip install -r requirements.txt</code>
   
 4. Manually install other missing packages using pip command:
-    <code>pip install <package name></code>
+    <code>pip install <package-name></code>
   
 5. Edit app.py and update news-api credentials(api-key)(generate at https://newsapi.org/)
   
