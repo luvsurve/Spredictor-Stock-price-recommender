@@ -18,3 +18,6 @@
   
 6. Run the streamlit webserver using the commmand:<br>
     <code>streamlit run app.py</code>
+
+<h3>Project Dashboard Preview:</h3>        
+<a href="Repository_extra/project_dashboard.pdf">Click for Preview</a>
