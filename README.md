@@ -10,7 +10,7 @@
     <code>pip install -r requirements.txt</code>
   
 4. Manually install other missing packages using pip command:<br>
-    <code> pip install  </code> <module>
+    <code> pip install <module> </code> 
 <h3>Project Directory after successful installation:</h3>        
 <br><img src="https://github.com/luvsurve/Spredictor-Stock-price-recommender/blob/main/Post%20Installation.JPG">
         
