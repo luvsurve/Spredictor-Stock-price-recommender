@@ -158,7 +158,7 @@ from newsapi import NewsApiClient
 #import pandas as pd
 #
 news_list = []
-newsapi = NewsApiClient(api_key='4ae12310540f4a78943017860bdbdeb2')
+newsapi = NewsApiClient(api_key='xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 #
 def get_content(keyword):
     everything = newsapi.get_everything(q=keyword)
