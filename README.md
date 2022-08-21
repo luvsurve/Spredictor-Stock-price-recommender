@@ -24,6 +24,8 @@ It consists of two sub-modules:
 <p>The output comprises predictions from historical data and sentiment-based models. The output predictions generated from historical data are based on statistical forecasts based on the previous closing prices, whereas the output predictions of the sentiment-based model incorporate drastic changes which might occur based on public sentiments.
 </p>
 
+<H3>Project Files Installation:</H3>
+
 1. Recommend creating a virtual environment with python 3.8.10 using the command:<br>
     <code>virtualenv -p <interpreter-path> <my_env_name></code>
   
@@ -35,7 +37,7 @@ It consists of two sub-modules:
   
 4. Manually install other missing packages using pip command:<br>
     <code> pip install <module> </code> 
-<h3>Project Directory after successful installation:</h3>        
+<h3>Project Directory after successful installation(Virtual environment name = env):</h3>        
 <br><img src="Repository_extra/Post Installation.JPG">
         
 5. Edit app.py and update news-api credentials(api-key)(generate at https://newsapi.org/)
