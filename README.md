@@ -1,6 +1,5 @@
 <H1>Spredictor-Stock-price-recommender</H1>
-<H4>A web application that analyses real-time data such as news, twitter tweets regarding particular stocks alongside it’s previous history to produce a consolidated prediction with impressive accuracy.</H4>
-
+<H4>A web application that analyses real-time data such as news, twitter tweets regarding particular stocks alongside it’s previous history to produce a consolidated prediction with impressive accuracy.</H4><br>
 <img src="Repository_extra/Architecture.JPG" align="middle">
 
 <b>I. Input Manager</b><br><br>
