@@ -46,8 +46,6 @@ It consists of two sub-modules:
     <code>streamlit run app.py</code>
 
 <h3>Project Dashboard Preview:</h3>        
-[//]: # ({% raw %})
 <a href="Repository_extra/project_dashboard.pdf">Click for Preview</a>
-[//]: # ({% endraw %})
 
 
