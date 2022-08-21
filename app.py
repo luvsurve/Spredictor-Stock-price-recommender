@@ -28,6 +28,7 @@ hide_st_style = """
             header {visibility: hidden;}
             </style>
             """
+
 st.markdown(hide_st_style, unsafe_allow_html=True)
 #Hist
 model100 = load_model('hist_keras_model.h5')
