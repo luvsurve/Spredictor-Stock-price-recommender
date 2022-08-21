@@ -46,6 +46,8 @@ It consists of two sub-modules:
     <code>streamlit run app.py</code>
 
 <h3>Project Dashboard Preview:</h3>        
-<a href="Repository_extra/project_dashboard.pdf">Click for Preview</a>
+<a href="Repository_extra/project_dashboard.pdf">Click for Preview(Download if unable to render code block
+
+)</a>
 
 
