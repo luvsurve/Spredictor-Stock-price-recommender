@@ -37,7 +37,7 @@ It consists of two sub-modules:
 4. Manually install other missing packages using pip command:<br>
     <code> pip install <module> </code> 
 <h3>Project Directory after successful installation(Virtual environment name = env):</h3>        
-<br><img src="Repository_extra/Post Installation.JPG">
+<br><img src="Repository_extra/Post Installation.JPG.png">
         
 5. Edit app.py and update news-api credentials(api-key)(generate at https://newsapi.org/)
   
